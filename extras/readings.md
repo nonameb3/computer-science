@@ -14,7 +14,7 @@ Name | Author(s)
 [Introduction to Computation and Programming Using Python](https://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262525003/) | John V. Guttag
 [Think Python 2e](http://greenteapress.com/wp/think-python-2e/) | Allen B. Downey
 [How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/) | Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
-[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html) | Hal Abelson, Jerry Sussman, Julie Sussman 
+[Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | Hal Abelson, Jerry Sussman, Julie Sussman 
 [Concepts, Techniques, and Models of Computer Programming](https://www.amazon.com/gp/product/0262220695) | Peter Van Roy, Seif Haridi
 [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 [Refactoring](https://www.refactoring.com/) | Martin Fowler
@@ -28,8 +28,10 @@ Name | Author(s)
 
 Name | Author(s)
 :-- | :--:
-[Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) | Silvanus P. Thompson 
+[Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) | Silvanus P. Thompson
+[Ximera](https://ximera.osu.edu/): Interactive Calculus Textbooks | [Ximera team](https://ximera.osu.edu/about/team)
 [Discrete Mathematics with Applications (4th Edition)](http://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328/) | Susanna S. Epp
+[Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/dmoi/) | Oscar Levin
 [Applied Discrete Structures](http://faculty.uml.edu/klevasseur/ads2/) | Alan Doerr, Ken Levasseur
 [Grinstead and Snell’s Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) |Charles M. Grinstead, J. Laurie Snell
 [Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/) | Gilbert Strang
